@@ -1,0 +1,23 @@
+# ninja log v5
+3	386	1718290959329736089	CMakeFiles/debugging.dir/src/main.cpp.o	1c1339341be06d4b
+3	659	1718290686452595107	CMakeFiles/word_ladder.dir/src/word_ladder.cpp.o	72e28d9b2e0bc525
+2	693	1718268392204246592	CMakeFiles/word_ladder_test_exe.dir/src/word_ladder.test.cpp.o	662ecd53bb7921b9
+0	2913	1718089997698378784	CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o	3d0e50f5873565be
+2913	2972	1718089997772616000	libcatch2_main.a	6c4943f2e13f4155
+659	683	1718290686481400000	libword_ladder.a	5cf6b8b269f67dac
+386	416	1718290959361422117	debugging	a7addf12a203bd31
+2	469	1718200236867138525	CMakeFiles/word_ladder_benchmark_exe.dir/src/word_ladder_benchmark.test.cpp.o	29c54eb168d5c372
+469	519	1718200236914318434	word_ladder_benchmark_exe	4954485556d4b102
+693	748	1718268392258518054	word_ladder_test_exe	cfcafb8146a4f2f
+2	383	1718290968798604228	CMakeFiles/debugging.dir/src/main.cpp.o	1c1339341be06d4b
+383	412	1718290968829368840	debugging	a7addf12a203bd31
+2	616	1718291022246737972	CMakeFiles/word_ladder_test_exe.dir/src/word_ladder.test.cpp.o	662ecd53bb7921b9
+616	653	1718291022285541455	word_ladder_test_exe	cfcafb8146a4f2f
+3	591	1718291097188684678	CMakeFiles/word_ladder_test_exe.dir/src/word_ladder.test.cpp.o	662ecd53bb7921b9
+591	631	1718291097229180452	word_ladder_test_exe	cfcafb8146a4f2f
+3	367	1718291162038287671	CMakeFiles/debugging.dir/src/main.cpp.o	1c1339341be06d4b
+367	398	1718291162071716947	debugging	a7addf12a203bd31
+3	374	1718541861900692721	CMakeFiles/debugging.dir/src/main.cpp.o	1c1339341be06d4b
+374	417	1718541861944834037	debugging	a7addf12a203bd31
+2	754	1718541958772341206	CMakeFiles/word_ladder_test_exe.dir/src/word_ladder.test.cpp.o	662ecd53bb7921b9
+754	805	1718541958825238545	word_ladder_test_exe	cfcafb8146a4f2f

@@ -1,0 +1,8 @@
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/catch2_main.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/word_ladder.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/debugging.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/word_ladder_test_exe.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/word_ladder_benchmark_exe.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/test.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/edit_cache.dir
+/Users/anno/CLionProjects/assn1/ass1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libword_ladder.a CMakeFiles/word_ladder.dir/src/word_ladder.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libword_ladder.a

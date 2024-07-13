@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libcatch2_main.a CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libcatch2_main.a

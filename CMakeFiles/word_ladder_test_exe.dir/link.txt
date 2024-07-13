@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/word_ladder_test_exe.dir/src/word_ladder.test.cpp.o -o word_ladder_test_exe  libcatch2_main.a libword_ladder.a libcatch2_main.a
